@@ -105,6 +105,13 @@ ul li a:hover {
   display: flex;
   gap: 50px;
 }
+@media (max-width: 1380px) {
+  .content {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+  }
+}
 .cards {
   display: flex;
   flex-direction: column;

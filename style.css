@@ -104,7 +104,6 @@ ul li a:hover {
 .content {
   display: flex;
   gap: 50px;
-  flex-wrap: wrap;
 }
 .cards {
   display: flex;

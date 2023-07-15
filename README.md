@@ -5,6 +5,6 @@ This site is 1 to 1 copy of the given image.
 
 Things i learned from this project:
 
-- flexbox.
+- Flexbox.
 
 View live site [HERE](https://xxnoc.github.io/odin-landing-page/)

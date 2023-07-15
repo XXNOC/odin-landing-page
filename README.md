@@ -8,3 +8,4 @@ Things i learned from this project:
 - flexbox.
 
 View live site [HERE](https://xxnoc.github.io/odin-landing-page/)
+.

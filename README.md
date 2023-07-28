@@ -1,6 +1,4 @@
-# The Odin Project: Landing Page Project
-
-Made for the odin projects landing page project.<br>
+# The Odin Project: Landing Page
 
 Things i learned from this project:
 

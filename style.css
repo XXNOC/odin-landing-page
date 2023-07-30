@@ -176,13 +176,19 @@ ul li a:hover {
 }
 
 .footer a {
-  color: #e5e7eb;
+  color: #6795f1;
   text-decoration: none;
   transition-duration: 0.4s;
 }
 .footer a:hover {
-  color: #3882f6;
+  color: #1064eb;
   text-decoration: none;
+}
+
+.footerText {
+  margin: 10px auto 0px auto;
+  color: white;
+  font-size: 17px;
 }
 
 .call {

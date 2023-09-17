@@ -175,20 +175,15 @@ ul li a:hover {
   align-items: center;
 }
 
-.footer a {
-  color: #6795f1;
-  text-decoration: none;
-  transition-duration: 0.4s;
-}
-.footer a:hover {
-  color: #1064eb;
-  text-decoration: none;
-}
-
 .footerText {
   margin: 10px auto 0px auto;
   color: white;
   font-size: 17px;
+}
+
+.footerDiv {
+  display: flex;
+  flex-direction: column;
 }
 
 .call {
@@ -226,4 +221,14 @@ ul li a:hover {
 .card .text p {
   color: white;
   filter: contrast(75%);
+}
+
+.fa-github {
+  color: #fdfdfd;
+  font-size: 24px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.fa-github:hover {
+  transform: rotate(360deg) scale(1.2);
 }

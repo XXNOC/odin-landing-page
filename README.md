@@ -8,4 +8,4 @@ Basic landing page.
 
 ## [Live Site](https://xxnoc.github.io/odin-landing-page/)
 
-![Landing Page](https://www.imghost.net/ib/b1AGJfwTaVFacL5_1695030249.png)
+![image](https://github.com/XXNOC/odin-landing-page/assets/99592950/b407d889-32fb-4b4f-8d80-494f5ac8a6ed)
